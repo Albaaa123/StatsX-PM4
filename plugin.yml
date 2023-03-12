@@ -1,0 +1,6 @@
+name: StatsX-PM4
+author: AlbaaDev
+main: AlbaaDev\StatsX\Main
+version: 1.0.0
+api: [4.0.0]
+description: A Pocketmine-MP Plugin that keeps track of Player Statistics
